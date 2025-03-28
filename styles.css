@@ -80,6 +80,7 @@ button {
     cursor: pointer;
     text-align: center;
     transition: background 0.3s, transform 0.2s;
+    margin: 3.5px;
 }
 
 button:hover {
